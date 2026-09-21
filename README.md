@@ -1,44 +1,85 @@
+# 📦 Power BI Project: Inventory & Supply Chain Analytics Dashboard
 
-# Data Analyst Portfolio Repository
+## 📌 Overview
 
-Welcome to my Data Analyst Portfolio Repository! 📊
+Efficient inventory management and supply chain optimization are essential for improving operational performance and reducing business costs.  
 
-This repository contains a collection of data analysis projects designed to demonstrate my skills in transforming raw data into meaningful insights. Each project focuses on real-world data problems, including data cleaning, exploration, visualization, statistical analysis, and reporting.
+This Power BI project delivers an **end-to-end interactive analytics solution** that transforms raw supply chain data into actionable business insights. The dashboard focuses on inventory health, demand patterns, supplier efficiency, logistics performance, and operational decision-making.
 
-## Skills & Tools Covered
+The project demonstrates real-world **data analytics workflows**, including data preparation, data modeling, DAX calculations, KPI development, and executive dashboard design.
 
-- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🗄️ SQL Database Analysis
-- 📊 Data Visualization & Dashboard Creation
-- 📈 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning & Preprocessing
-- 📑 Statistical Analysis
-- 📌 Business Intelligence & Insights
+---
 
-## Projects Include
+## 🚀 Project Objectives
 
-- Data Cleaning and Preparation
-- Customer Behavior Analysis
-- Sales Performance Analysis
-- Financial Data Analysis
-- Market Trend Analysis
-- KPI Reporting
-- Interactive Dashboards
-- Automated Data Reports
+- Analyze inventory performance and stock availability.
+- Identify supply chain bottlenecks and operational inefficiencies.
+- Evaluate supplier reliability and delivery performance.
+- Monitor key logistics and procurement metrics.
+- Provide data-driven insights for better business decisions.
 
-## Project Workflow
+---
 
-1. Data Collection
-2. Data Cleaning & Transformation
-3. Exploratory Data Analysis
-4. Data Visualization
-5. Insight Generation
-6. Business Recommendations
+## ✨ Key Features
 
-## Objective
+### 🧹 Data Cleaning & Transformation
+- Prepared and transformed raw datasets using **Power Query**.
+- Removed inconsistencies and handled missing values.
+- Created a structured data model optimized for reporting.
 
-The goal of this repository is to showcase my ability to analyze complex datasets, identify patterns, and communicate data-driven insights that support better decision-making.
+### 📦 Inventory Analytics
+- Monitored stock levels and inventory movement.
+- Analyzed inventory turnover and demand trends.
+- Identified reorder requirements and potential stock shortages.
+- Tracked backorders and inventory availability.
 
-## Connect
+### 🚚 Supply Chain Performance Analysis
+- Evaluated supplier performance and reliability.
+- Analyzed delivery times and lead-time variations.
+- Measured logistics efficiency and operational delays.
 
-Feel free to explore the projects, provide feedback, or collaborate on data analytics projects.
+### 🔢 Advanced DAX Measures
+- Developed calculated measures for business KPIs.
+- Created dynamic metrics for inventory and supply chain analysis.
+- Applied analytical logic to generate actionable insights.
+
+### 📊 Interactive Power BI Dashboard
+- Designed an executive-level dashboard with:
+  - Interactive filters and slicers
+  - KPI cards
+  - Trend analysis visuals
+  - Supplier and inventory performance charts
+  - Business-focused storytelling
+
+---
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop**
+- **Power Query**
+- **DAX (Data Analysis Expressions)**
+- **Data Modeling**
+- **Excel / CSV Dataset**
+
+---
+
+## 📈 Business Insights Generated
+
+The dashboard helps stakeholders understand:
+
+✅ Current inventory health  
+✅ Product demand patterns  
+✅ Supplier efficiency  
+✅ Delivery performance  
+✅ Stock risks and shortages  
+✅ Areas for operational improvement  
+
+---
+
+## 🎯 Project Outcome
+
+This project showcases how Power BI can convert complex inventory and supply chain data into a **strategic decision-making tool** that supports procurement teams, operations managers, and business leaders.
+
+---
+
+## 📂 Repository Structure
